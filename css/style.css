@@ -14,3 +14,17 @@ body {
     padding: 30px;
     padding-bottom: 30px;
 }
+
+.parceiros {
+    background-color: rgb(216, 219, 216);
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
